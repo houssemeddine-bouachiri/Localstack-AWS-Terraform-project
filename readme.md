@@ -1,5 +1,9 @@
 # LocalStack AWS & Terraform Emulation Project
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 This project demonstrates how to use **LocalStack** to emulate AWS services locally, combined with **Terraform** for Infrastructure as Code (IaC). It allows you to develop, test, and iterate on AWS resources without needing a real AWS account or incurring cloud costs.
 
 ---
